@@ -78,7 +78,7 @@ if (!isset($_SESSION['username'])) {
           </div>
           
           <div class="col-md-12">
-            <a href="search.php"><button type="submit" class="btn btn-b">Search Property</button></a>
+            <a href="search.php"><button type="submit" class="btn btn-primary">Search</button></a>
           </div>
         </div>
       </form>
